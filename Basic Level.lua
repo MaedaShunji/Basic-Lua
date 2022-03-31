@@ -1,4 +1,4 @@
-local name = 'BasicLua' --Local is requested in all lua file
+local name = 'BasicLua' --Local is required in all lua file
 
 function Welcome()  --Orange text is the function name you can change it if you want.
     print('Hello')  --Print = Show the text
