@@ -1,2 +1,2 @@
 # Basic-Lua
-Basic Lua for those Who are new to Lua. (Hardly recommend to use Visual Studio Code) Good Luck and Enjoy!
+Basic Lua for those Who are new to Lua. (Fully recommend to using Visual Studio Code to open the Lua file) Good Luck and Enjoy!
